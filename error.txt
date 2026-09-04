@@ -1,0 +1,32 @@
+
+[Error ID: 74948818-8b7d-4083-9ab5-580e713a4e3c] SALESDATA20260710140204.csv
+ - Incorrectly formatted filename
+
+[Error ID: 39056d9b-7059-4093-9c17-ebdd748e9f6a] SALESDATA20260710140520.csv
+ - Incorrectly formatted filename
+
+[Error ID: 4eea301c-4e58-49a6-bd9e-2e5e8b24faba] SALES_DATA_20260618125730.csv
+ - Header column count mismatch: expected 8, got 0
+ - Row 2: Inconsistent column count (got 0)
+ - Row 3: Inconsistent column count (got 0)
+ - Row 4: Inconsistent column count (got 0)
+ - Row 5: Inconsistent column count (got 0)
+ - Row 6: Inconsistent column count (got 0)
+ - Row 7: Inconsistent column count (got 0)
+ - Row 8: Inconsistent column count (got 0)
+ - Row 9: Inconsistent column count (got 0)
+ - Row 10: Inconsistent column count (got 0)
+ - Row 11: Inconsistent column count (got 0)
+ - Row 12: Inconsistent column count (got 0)
+ - Row 13: Inconsistent column count (got 0)
+ - Row 14: Inconsistent column count (got 0)
+ - Row 15: Inconsistent column count (got 0)
+
+[Error ID: 90fe2cca-882e-4f2d-a4b8-1123c895ece3] SALES.csv
+ - Incorrectly formatted filename
+
+[Error ID: e6d09a3e-c062-419b-b47e-c2249d098841] SALESDATA20260710140204.csv
+ - Incorrectly formatted filename
+
+[Error ID: 2434a5ed-2dbd-4d51-a43d-8cf7bad218d2] SALES.csv
+ - Incorrectly formatted filename
